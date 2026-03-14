@@ -44,9 +44,15 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![alt text](<Screenshot 2026-03-14 164554-1.png>)
+![alt text](<Screenshot 2026-03-14 164611.png>)
+![alt text](<Screenshot 2026-03-14 164621.png>)
+![alt text](<Screenshot 2026-03-14 164634.png>)
+![alt text](<Screenshot 2026-03-14 164645.png>)
+![alt text](<Screenshot 2026-03-14 164717.png>)
 
-### Name:
-### Register Number:
+### Name:V.Pavithira
+### Register Number:212225040297
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
